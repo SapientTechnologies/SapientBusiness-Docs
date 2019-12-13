@@ -44,24 +44,9 @@
       "subscribe": "Subscribe",
       "subscribed_messages": {
         "pre": "An email to confirm your subscription has been sent to",
-        "post": "💚"
+        "post": "✔️"
       }
     }
-  },
-  "development": {
-    "release_notes": "Release Notes",
-    "contribute": "Caught a mistake or want to contribute to the documentation?",
-    "edit_on_github": "Edit this page on GitHub!"
-  },
-  "management": {
-    "release_notes": "Release Notes",
-    "contribute": "Caught a mistake or want to contribute to the documentation?",
-    "edit_on_github": "Edit this page on GitHub!"
-  },
-  "consulting": {
-    "release_notes": "Release Notes",
-    "contribute": "Caught a mistake or want to contribute to the documentation?",
-    "edit_on_github": "Edit this page on GitHub!"
   },
   "about": {
     "meta": {
@@ -74,10 +59,5 @@
       "title": "Sapient Business - Contact Us",
       "description": "Contact Sapient Business"
     }
-  },
-  "guide": {
-    "release_notes": "Release Notes",
-    "contribute": "Caught a mistake or want to contribute to the documentation?",
-    "edit_on_github": "Edit this page on GitHub!"
   }
 }

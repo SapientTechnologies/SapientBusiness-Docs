@@ -14,8 +14,9 @@
         "to": "/branding", "name": "Branding",
         "contents": [
           { "to": "#what-is-a-brand", "name": "What is a brand?" },
-          { "to": "#what-is-the-purpose-of-a-brand", "name": "What is the purpose of a brand?" },
-          { "to": "#branding-with-sapient", "name": "Branding with Sapient?" }
+          { "to": "#what-is-the-purpose-of-a-brand-", "name": "What is the purpose of a brand?" },
+          { "to": "#branding-with-sapient", "name": "Branding with Sapient" },
+          { "to": "#our-branding-solutions-include-", "name": "Our Branding solutions?" }
         ]
       }
     ]
