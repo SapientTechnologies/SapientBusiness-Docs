@@ -1,4 +1,4 @@
 ---
-title: Nuxt<span class="text-nuxt-lightgreen">JS</span> Newsletter
+title: <span class="text-nuxt-green">Sapient</span> Newsletter
 ---
-Get the latest Nuxt news to your inbox, curated by the core team and contributors.
+Get the latest news from Sapient in your inbox, crafted and curated by our team.

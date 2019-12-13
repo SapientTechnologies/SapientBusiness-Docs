@@ -1,4 +1,4 @@
 ---
-title: Why Nuxt?
+title: Why Us?
 ---
-Why NUXT<span class="text-nuxt-lightgreen">JS</span>
+What Sets <span class="text-nuxt-green">Us</span> Apart?

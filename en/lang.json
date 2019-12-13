@@ -15,15 +15,25 @@
   },
   "homepage": {
     "meta": {
-      "title": "Nuxt.js - The Vue.js Framework",
-      "description": "Nuxt.js presets all the configuration needed to make your development of a Vue.js application enjoyable. Nuxt.js can produce Universal, Single Page and Static Generated Applications."
+      "title": "Sapient Business",
+      "description": "Brilliantly Crafted Professional Solutions."
     },
     "welcome": {
+      "contact_us": "Contact Us",
       "get_started": "get started",
       "github_stars": "22K+ github stars"
     },
     "why": {
-      "try_nuxtjs_online": "Try NuxtJS Online"
+      "more_about_us": "Read more about us"
+    },
+    "business_development": {
+      "cta": "More information"
+    },
+    "business_management": {
+      "cta": "More information"
+    },
+    "business_consulting": {
+      "cta": "More information"
     },
     "sponsors": {
       "become_a_sponsor": "Become a sponsor"
@@ -36,6 +46,33 @@
         "pre": "An email to confirm your subscription has been sent to",
         "post": "💚"
       }
+    }
+  },
+  "development": {
+    "release_notes": "Release Notes",
+    "contribute": "Caught a mistake or want to contribute to the documentation?",
+    "edit_on_github": "Edit this page on GitHub!"
+  },
+  "management": {
+    "release_notes": "Release Notes",
+    "contribute": "Caught a mistake or want to contribute to the documentation?",
+    "edit_on_github": "Edit this page on GitHub!"
+  },
+  "consulting": {
+    "release_notes": "Release Notes",
+    "contribute": "Caught a mistake or want to contribute to the documentation?",
+    "edit_on_github": "Edit this page on GitHub!"
+  },
+  "about": {
+    "meta": {
+      "title": "Sapient Business - About Us",
+      "description": "About Sapient Business"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Sapient Business - Contact Us",
+      "description": "Contact Sapient Business"
     }
   },
   "guide": {
