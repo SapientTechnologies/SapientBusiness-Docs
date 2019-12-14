@@ -1,20 +1,7 @@
 [
   {
     "title": "Business Development",
-    "links": [
-      {
-        "to": "/branding", "name": "Branding"
-      },
-      {
-        "to": "/copyrights_and_intellectual_property", "name": "Copyrights and Intellectual Property"
-      },
-      {
-        "to": "/digital_identity", "name": "Digital Identity"
-      },
-      {
-        "to": "/email_and_productivity", "name": "Email and Productivity"
-      }
-    ]
+    "links": []
   },
   {
     "title": "Branding",
