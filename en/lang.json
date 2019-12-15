@@ -59,5 +59,10 @@
       "title": "Sapient Business - Contact Us",
       "description": "Contact Sapient Business"
     }
-  }
+  },
+  "privacy_policy": {
+    "title": "Privacy Rights",
+    "meta": {
+      "title": "Privacy Rights",
+      "description": "Know your privacy rights when connected to and interacting with our web property."
 }
