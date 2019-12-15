@@ -1,0 +1,5 @@
+---
+title: 'Policy Governs Use: Changes to Privacy Policy'
+---
+
+<p>&nbsp;&nbsp;&nbsp;We reserve the right to modify this Privacy Policy at any time. We encourage you to periodically review this page for the latest information on our privacy practices. If we make material changes to this Privacy Policy, you may be notified via email (if you have an account where we have your contact information) or otherwise in some manner through the Service that we deem reasonably likely to reach you (which may include posting a new privacy policy on our website—or a specific announcement on a website page, social channels, or on our blog). Any modifications to this Privacy Policy will be effective upon our posting of the new terms and/or upon implementation of the new changes on the Service (or as otherwise indicated at the time of posting) or on the Effective Date set forth in the modified Privacy Policy. In all cases, your continued use of the Service or Website after the posting of any modified Privacy Policy indicates your acceptance of the terms of the modified Privacy Policy.</p>
