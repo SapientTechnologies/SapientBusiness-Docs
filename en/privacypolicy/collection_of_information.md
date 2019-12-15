@@ -2,8 +2,7 @@
 title: Collection of Information
 ---
 
-<p>&nbsp;&nbsp;&nbsp;We may collect and process the following personal data from you for our legitimate interests or the legitimate interests of third parties, as described in this Privacy Policy:</p>
-
+<p>We may collect and process the following personal data from you for our legitimate interests or the legitimate interests of third parties, as described in this Privacy Policy:</p>
 <ul>
 <li>Information you provide to us: We collect personal data when you voluntarily provide us with such information in the course of using our website or Services. For example, when you register to use our Services, we will collect your name, email address, password, organization information, and billing details. We also collect personal data from you when you subscribe to our newsletters, register for an event, or respond to a survey. If you make an inquiry through our website, or contact us in any other way, we will keep a copy of your communications with us.</li>
 <br>
