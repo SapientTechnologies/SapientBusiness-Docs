@@ -80,7 +80,7 @@
         "to": "/technology_management", "name": "Technology Management",
         "contents": [
           { "to": "#what-is-technology-management-", "name": "What is Technology Management?" },
-          { "to": "#what-is-technology-managements-purpose-", "name": "What is Technology Management's Purpose?" },
+          { "to": "#what-is-technology-management-s-purpose-", "name": "What is Technology Management's Purpose?" },
           { "to": "#technology-management-with-sapient", "name": "Technology Management with Sapient" },
           { "to": "#our-technology-management-solutions-include-", "name": "Sapient Technology Management solutions" }
         ]
