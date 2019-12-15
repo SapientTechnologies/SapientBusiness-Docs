@@ -3,6 +3,7 @@ title: Sharing of Information Collected
 ---
 
 <p>We will only share your personal data with third parties in certain circumstances:</p>
+<br>
 <ul>
 <li>We engage certain trusted third parties to perform functions and provide services to us, including cloud hosting services, off-site backups, email service providers, and customer support providers. We will only share your personal information with third parties to the extent necessary to perform these functions, in accordance with the purposes set out in this Privacy Policy and applicable laws.</li>
 <br>

@@ -4,7 +4,8 @@ title: Do we use cookies?
 
 <p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
 <br>
-<p>We may use cookies to understand and save your preferences for future visits, to advertise to you on other sites (including but not limited to services such as Google AdWords and Social channels), and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:</p>
+<p>We may use cookies to understand and save your preferences for future visits, to advertise to you on other sites (including but not limited to services such as Google AdWords and Social channels), and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:</p>
+<br>
 <ul>
 <li><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a></li>
 <br>
