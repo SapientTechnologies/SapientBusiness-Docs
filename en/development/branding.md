@@ -11,8 +11,6 @@ description: Branding with Sapient
 
 A Brand is an extant organism and as such, it is susceptible to any and all worldly factors and influences. Our branding solutions build strategic and creatively effective foundations that exude distinctly defined identity, purpose and role.
 
-
-
 ## What is the purpose of a brand?
 
 A Brand articulates,distinctly and competitively, how and why a business develops and delivers its offerings to its customers.
