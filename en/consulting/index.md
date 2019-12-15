@@ -1,6 +1,6 @@
 ---
 title: Sapient Business Consulting
-description: "Sapient Business provides business consulting solutions to provide expert knowledge to professionals and organizations."
+description: "Sapient Business provides consulting solutions to take the guesswork out of implementing, training, and auditing business plans and processes."
 ---
 
-> Sapient Business provides business consulting solutions to provide expert knowledge to professionals and organizations.
+> Sapient Business provides consulting solutions to take the guesswork out of implementing, training, and auditing business plans and processes.
