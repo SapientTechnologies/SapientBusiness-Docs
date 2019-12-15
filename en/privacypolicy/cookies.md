@@ -2,9 +2,9 @@
 title: Do we use cookies?
 ---
 
-<p>&nbsp;&nbsp;&nbsp;Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
-
-<p>&nbsp;&nbsp;&nbsp;We may use cookies to understand and save your preferences for future visits, to advertise to you on other sites (including but not limited to services such as Google AdWords and Social channels), and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:</p>
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+<br>
+<p>We may use cookies to understand and save your preferences for future visits, to advertise to you on other sites (including but not limited to services such as Google AdWords and Social channels), and to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.You may refuse to accept cookies by activating the setting on your browser that allows you to refuse the setting of cookies. You can find information on popular browsers and how to adjust your cookie preferences at the following websites:</p>
 <ul>
 <li><a href="https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a></li>
 <br>
@@ -22,4 +22,5 @@ title: Do we use cookies?
 <br>
 <li><a href="https://support.brave.com/hc/en-us/articles/360022973471-What-is-Shields-" target="_blank">Brave Browser</a></li>
 </ul>
-<p>&nbsp;&nbsp;&nbsp;However, if you choose to disable cookies, you may be unable to access certain parts of our site. A banner asking you to accept our cookies policy may be displayed upon the first visit to our website (or the first visit after you delete your cookies). Unless you have adjusted your browser setting so that it will refuse cookies and/or you have not accepted our cookies policy, our system will issue cookies when you use our site.</p>
+<br>
+<p>However, if you choose to disable cookies, you may be unable to access certain parts of our site. A banner asking you to accept our cookies policy may be displayed upon the first visit to our website (or the first visit after you delete your cookies). Unless you have adjusted your browser setting so that it will refuse cookies and/or you have not accepted our cookies policy, our system will issue cookies when you use our site.</p>

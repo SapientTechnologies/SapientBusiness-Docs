@@ -2,7 +2,8 @@
 title: How Sapient Uses the Information It Collects and Your Choices
 ---
 
-<p>&nbsp;&nbsp;&nbsp;The personal data we collect from you may be used in one of the following ways:</p>
+<p>The personal data we collect from you may be used in one of the following ways:</p>
+<br>
 <ul>
 <li>To deal with your inquiries and requests</li>
 <br>

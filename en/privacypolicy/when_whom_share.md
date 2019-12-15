@@ -2,7 +2,7 @@
 title: Sharing of Information Collected
 ---
 
-<p>&nbsp;&nbsp;&nbsp;We will only share your personal data with third parties in certain circumstances:</p>
+<p>We will only share your personal data with third parties in certain circumstances:</p>
 <ul>
 <li>We engage certain trusted third parties to perform functions and provide services to us, including cloud hosting services, off-site backups, email service providers, and customer support providers. We will only share your personal information with third parties to the extent necessary to perform these functions, in accordance with the purposes set out in this Privacy Policy and applicable laws.</li>
 <br>
@@ -12,5 +12,5 @@ title: Sharing of Information Collected
 <br>
 <li>We may use and share aggregated non-personally identifiable information with third parties for marketing, advertising, and analytics purposes.</li>
 </ul>
-</p>&nbsp;&nbsp;&nbsp;We do not sell or trade your personal data to third parties.</p>
-
+<br>
+<p>We do not sell or trade your personal data to third parties.</p>
