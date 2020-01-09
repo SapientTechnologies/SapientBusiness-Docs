@@ -1,6 +1,4 @@
 ---
 title: Entrepreneurs to Enterprises
 ---
-Our main focus is the Developer Experience. We love Nuxt.js and continuously improve the framework so you love it too! 💚
-
-Expect appealing solutions, descriptive error messages, powerful defaults and detailed documentation. If questions or problems come up, our helpful community will help you out.
+It doesn't matter if you are an international corporation, a fiesty start-up, or an army of one; we tailor our soutions to fit your specific needs so your solutions will always be the one you need. 

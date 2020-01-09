@@ -1,4 +1,4 @@
 ---
 title: Advanced Operational Security
 ---
-Nuxt is based on a powerful modular architecture. You can choose from more than 50 modules to make your development faster and easier. You don't have to reinvent the wheel to get PWA benefits, add Google Analytics to your page or generate a sitemap.
+At Sapient, all of us embody security in our professional and personal lives. Operational security permeates everything that we do. So we are passionate about advising on and delivering solutions that enable all levels of security in the digtal expanse.
