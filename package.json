@@ -1,27 +1,29 @@
 {
-  "name": "nuxt-docs",
+  "name": "sapient-business-docs",
   "version": "1.0.0",
-  "description": "Nuxt.js documentation files",
+  "description": "Sapient Business documentation files",
   "scripts": {
     "textlint": "textlint",
     "lint": "eslint --ext md ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuxt/docs.git"
+    "url": "https://sapient-tech@dev.azure.com/sapient-tech/SapientBusiness-Docs/_git/SapientBusiness-Docs"
   },
   "keywords": [
+    "sapient",
+    "business",
     "nuxt",
     "nuxt.js",
     "vue",
     "micro"
   ],
-  "author": "Nuxt.js team and contributors",
+  "author": "sapient-technologies",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nuxt/docs/issues"
+    "url": "https://dev.azure.com/sapient-tech/SapientBusiness-Docs/_workitems/"
   },
-  "homepage": "https://github.com/nuxt/docs#readme",
+  "homepage": "https://dev.azure.com/sapient-tech/SapientBusiness-Docs/",
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.1.2",
     "babel-eslint": "^10.0.3",

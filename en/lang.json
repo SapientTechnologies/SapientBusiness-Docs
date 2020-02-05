@@ -1,6 +1,6 @@
 {
   "iso": "en",
-  "docVersion": "2.10.X",
+  "docVersion": "1.0.X",
   "links": {
     "download": "Download",
     "live_edit": "Live Edit"
@@ -10,7 +10,7 @@
     "api_page_not_found": "API page not found",
     "please_define_title": "Please define a title in the front matter",
     "please_define_description": "Please define a description in the front matter",
-    "search": "Search (\"/\" to focus)",
+    "search": "Search",
     "version": "Version"
   },
   "homepage": {
@@ -19,9 +19,7 @@
       "description": "Brilliantly Crafted Professional Solutions."
     },
     "welcome": {
-      "contact_us": "Contact Us",
-      "get_started": "get started",
-      "github_stars": "22K+ github stars"
+      "contact_us": "Contact Us"
     },
     "why": {
       "more_about_us": "Read more about us"
