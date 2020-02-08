@@ -9,9 +9,9 @@ specified in the EU-U.S. Privacy Shield Framework as set forth by the U.S. Depar
 <br>
 <p>In compliance with the Privacy Shield Principles,Sapient Business commits to resolve complaints about our collection or use of your personal data. EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contactSapient Business at:</p>
 <br>
-<p>Email Address: <a href="mailto:infosec@sapientbusiness.com">infosec@sapientbusiness.com</a></p>
+<p>Email Address: <b><a href="mailto:infosec@sapientbusiness.com">infosec@sapientbusiness.com</a></b></p>
 <br>
-<p>Mailing Address: <b>NEED TO AFFIX</b></p>
+<p>Mailing Address: 8 The Green, STE. A, Dover, DE 19901</p>
 <br>
 <p>(2)Sapient Business has further committed to cooperate and comply with the panel of the European data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. If you are unsatisfied with the response you have received from us, or your complaint remains unresolved, you can contact your local DPA (contact details available here), and they will investigate your complaint free of charge.</p>
 <br>
