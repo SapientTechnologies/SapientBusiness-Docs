@@ -2,10 +2,10 @@
 title: Marketing
 description: Marketing with Sapient
 ---
-
-<div>
+![Marketing](/management/management-marketing.jpg)
+<!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/marketing-plan.jpg" srcset="https://sbmedia.blob.core.windows.net/images/marketing-plan.jpg 2x" alt="Marketing"/>
-</div>
+</div> -->
 
 ## What is Marketing?
 
