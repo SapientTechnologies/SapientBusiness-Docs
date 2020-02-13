@@ -2,7 +2,7 @@
 title: Marketing
 description: Marketing with Sapient
 ---
-![Marketing](/management/management-marketing.jpg)
+![Marketing](/management/management-marketing.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/marketing-plan.jpg" srcset="https://sbmedia.blob.core.windows.net/images/marketing-plan.jpg 2x" alt="Marketing"/>
 </div> -->

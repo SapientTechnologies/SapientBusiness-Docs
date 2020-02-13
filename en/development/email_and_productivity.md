@@ -2,7 +2,7 @@
 title: Productivity Software
 description: Productivity Software with Sapient
 ---
-![Productivity Software](/development/development-productivity_software.jpg)
+![Productivity Software](/development/development-productivity_software.webp)
 <!-- <div>
   <img src="~static/development/development-productivity_software.jpg" srcset="~static/development/development-productivity_software.jpg 2x" alt="Productivity Software"/>
 </div> -->
