@@ -2,7 +2,7 @@
 title: Copyrights and Intellectual Property
 description: Copyrights and Intellectual Property with Sapient
 ---
-![Copyrights and Intellectual Property](/development/development-copyright.jpg)
+![Copyrights and Intellectual Property](/development/development-copyright.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/copyright-file.jpg" srcset="https://sbmedia.blob.core.windows.net/images/copyright-file.jpg 2x" alt="Copyrights and Intellectual Property"/>
 </div> -->

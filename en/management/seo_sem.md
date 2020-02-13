@@ -2,7 +2,7 @@
 title: SEO/SEM
 description: SEO/SEM with Sapient
 ---
-![SEO/SEM](/management/management-seo.jpg)
+![SEO/SEM](/management/management-seo.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/web-optimization-seo.jpg" srcset="https://sbmedia.blob.core.windows.net/images/web-optimization-seo.jpg 2x" alt="SEO/SEM"/>
 </div> -->

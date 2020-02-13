@@ -2,7 +2,7 @@
 title: Security
 description: Security with Sapient
 ---
-![Security](/management/management-security.jpg)
+![Security](/management/management-security.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/mobile-security.jpg" srcset="https://sbmedia.blob.core.windows.net/images/mobile-security.jpg 2x" alt="Security"/>
 </div> -->

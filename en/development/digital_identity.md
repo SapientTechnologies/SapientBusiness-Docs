@@ -2,7 +2,7 @@
 title: Digital Identity
 description: Digital Identity with Sapient
 ---
-![Digital Identity](/development/development-digital_identity.jpg)
+![Digital Identity](/development/development-digital_identity.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/branding-web-design-concept.jpg" srcset="https://sbmedia.blob.core.windows.net/images/branding-web-design-concept.jpg 2x" alt="Digital Identity"/>
 </div> -->

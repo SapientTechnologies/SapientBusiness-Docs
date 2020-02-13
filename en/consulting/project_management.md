@@ -2,7 +2,7 @@
 title: Project Management
 description: Project Management with Sapient
 ---
-![Project Management](/consulting/consulting-project_management.JPG)
+![Project Management](/consulting/consulting-project_management.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/project-manager-with-adhesive-notes.JPG" srcset="https://sbmedia.blob.core.windows.net/images/project-manager-with-adhesive-notes.JPG 2x" alt="Project Management"/>
 </div> -->

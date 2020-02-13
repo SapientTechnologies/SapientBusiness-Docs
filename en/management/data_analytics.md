@@ -2,7 +2,7 @@
 title: Data Analytics
 description: Data Analytics with Sapient
 ---
-![Data Analytics](/management/management-data_analytics.jpg)
+![Data Analytics](/management/management-data_analytics.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/concepting-on-glass.jpg" srcset="https://sbmedia.blob.core.windows.net/images/concepting-on-glass.jpg 2x" alt="Data Analytics"/>
 </div> -->
