@@ -2,10 +2,10 @@
 title: Technology Management
 description: Technology Management with Sapient
 ---
-
-<div>
+![Technology Management](/management/management-technology_management.JPG)
+<!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/computer-scientists-working-with-supercomputer.JPG" srcset="https://sbmedia.blob.core.windows.net/images/computer-scientists-working-with-supercomputer.JPG 2x" alt="Technology Management"/>
-</div>
+</div> -->
 
 ## What is Technology Management?
 

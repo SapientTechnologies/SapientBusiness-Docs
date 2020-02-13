@@ -2,10 +2,10 @@
 title: Branding
 description: Branding with Sapient
 ---
-
-<div>
+![Branding](/development/development-branding.jpg)
+<!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg" srcset="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg 2x" alt="Branding"/>
-</div>
+</div> -->
 
 ## What is a Brand
 
