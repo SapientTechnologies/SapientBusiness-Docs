@@ -2,7 +2,7 @@
 title: Branding
 description: Branding with Sapient
 ---
-![Branding](/development/development-branding.jpg)
+![Branding](/development/development-branding.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg" srcset="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg 2x" alt="Branding"/>
 </div> -->

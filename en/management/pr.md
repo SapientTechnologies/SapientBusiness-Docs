@@ -2,7 +2,7 @@
 title: Public Relations
 description: Public Relations with Sapient
 ---
-![Public Relations](/management/management-public_relations.jpg)
+![Public Relations](/management/management-public_relations.webp)
 <!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/managers-greeting-in-office.jpg" srcset="https://sbmedia.blob.core.windows.net/images/managers-greeting-in-office.jpg 2x" alt="Public Relations"/>
 </div> -->
