@@ -2,10 +2,10 @@
 title: Productivity Software
 description: Productivity Software with Sapient
 ---
-
-<div>
-  <img src="https://sbmedia.blob.core.windows.net/images/financial-planning-chart-with-calculator.jpg" srcset="https://sbmedia.blob.core.windows.net/images/financial-planning-chart-with-calculator.jpg 2x" alt="Productivity Software"/>
-</div>
+![Productivity Software](/development/development-productivity_software.jpg)
+<!-- <div>
+  <img src="~static/development/development-productivity_software.jpg" srcset="~static/development/development-productivity_software.jpg 2x" alt="Productivity Software"/>
+</div> -->
 
 ## What is Productivity Software?
 

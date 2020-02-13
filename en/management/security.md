@@ -2,10 +2,10 @@
 title: Security
 description: Security with Sapient
 ---
-
-<div>
+![Security](/management/management-security.jpg)
+<!-- <div>
   <img src="https://sbmedia.blob.core.windows.net/images/mobile-security.jpg" srcset="https://sbmedia.blob.core.windows.net/images/mobile-security.jpg 2x" alt="Security"/>
-</div>
+</div> -->
 
 ## What is Security?
 
