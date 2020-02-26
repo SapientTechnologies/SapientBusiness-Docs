@@ -1,7 +1,11 @@
 [
   {
     "title": "Business Management",
-    "links": []
+    "links": [
+      {
+        "to": "/", "name": "Overview"
+      }
+    ]
   },
   {
     "title": "Data Analytics",
