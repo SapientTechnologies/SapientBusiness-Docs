@@ -1,7 +1,11 @@
 [
   {
     "title": "Business Consulting",
-    "links": []
+    "links": [
+      {
+        "to": "/", "name": "Overview"
+      }
+    ]
   },
   {
     "title": "Project Management",
