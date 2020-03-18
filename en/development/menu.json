@@ -11,7 +11,7 @@
     "title": "Branding",
     "links": [
       {
-        "to": "/branding", "name": "Branding",
+        "to": "/branding", "name": "Branding Solutions",
         "contents": [
           { "to": "#what-is-a-brand", "name": "What is a brand?" },
           { "to": "#what-is-the-purpose-of-a-brand-", "name": "What is the purpose of a brand?" },
@@ -25,7 +25,7 @@
     "title": "Copyrights and Intellectual Property",
     "links": [
       {
-        "to": "/copyrights_and_intellectual_property", "name": "Copyrights and Intellectual Property",
+        "to": "/copyrights_and_intellectual_property", "name": "Copyrights and Intellectual Property Solutions",
         "contents": [
           { "to": "#what-are-copyrights-and-intellectual-property-", "name": "What are Copyrights and Intellectual Property?" },
           { "to": "#what-is-the-purpose-of-copyrights-and-intellectual-property-", "name": "What is the Purpose of Copyrights and Intellectual Property?" },
@@ -38,7 +38,7 @@
     "title": "Digital Identity",
     "links": [
       {
-        "to": "/digital_identity", "name": "Digital Identity",
+        "to": "/digital_identity", "name": "Digital Identity Solutions",
         "contents": [
           { "to": "#what-is-a-digital-identity-", "name": "What is a Digital Identity?" },
           { "to": "#what-is-the-purpose-of-a-digital-identity-", "name": "What is the purpose of a Digital Identity?" },
@@ -52,7 +52,7 @@
     "title": "Email and Productivity",
     "links": [
       {
-        "to": "/email_and_productivity", "name": "Productivity Software",
+        "to": "/email_and_productivity", "name": "Productivity Software Solutions",
         "contents": [
           { "to": "#what-is-a-productivity-software-", "name": "What is Productivity Software?" },
           { "to": "#what-is-the-purpose-of-a-productivity-software-", "name": "What is the purpose of Productivity Software?" },

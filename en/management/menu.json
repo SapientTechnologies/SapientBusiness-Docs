@@ -11,7 +11,7 @@
     "title": "Data Analytics",
     "links": [
       {
-        "to": "/data_analytics", "name": "Data Analytics",
+        "to": "/data_analytics", "name": "Data Analytics Solutions",
         "contents": [
           { "to": "#what-is-data-analytics-", "name": "What is Data Analytics?" },
           { "to": "#what-is-the-purpose-of-data-analytics-", "name": "What is the purpose of Data Analytics?" },
@@ -25,7 +25,7 @@
     "title": "Marketing",
     "links": [
       {
-        "to": "/marketing", "name": "Marketing",
+        "to": "/marketing", "name": "Marketing Solutions",
         "contents": [
           { "to": "#what-is-marketing-", "name": "What is Marketing?" },
           { "to": "#what-is-the-purpose-of-marketing-", "name": "What is the Purpose of Marketing?" },
@@ -39,7 +39,7 @@
     "title": "Public Relations",
     "links": [
       {
-        "to": "/pr", "name": "Public Relations",
+        "to": "/pr", "name": "Public Relations Solutions",
         "contents": [
           { "to": "#what-is-public-relations-", "name": "What is Public Relations?" },
           { "to": "#what-is-the-purpose-of-public-relations-", "name": "What is the Purpose of Public Relations?" },
@@ -53,7 +53,7 @@
     "title": "Security",
     "links": [
       {
-        "to": "/security", "name": "Security",
+        "to": "/security", "name": "Security Solutions",
         "contents": [
           { "to": "#what-is-security-", "name": "What is Security?" },
           { "to": "#what-is-the-purpose-of-security-", "name": "What is the Purpose of Security?" },
@@ -67,7 +67,7 @@
     "title": "SEO/SEM",
     "links": [
       {
-        "to": "/seo_sem", "name": "SEO/SEM",
+        "to": "/seo_sem", "name": "SEO/SEM Solutions",
         "contents": [
           { "to": "#what-is-seo-sem-", "name": "What is SEO/SEM?" },
           { "to": "#what-is-the-purpose-of-seo-sem-", "name": "What is the Purpose of SEO/SEM?" },
@@ -81,7 +81,7 @@
     "title": "Technology Management",
     "links": [
       {
-        "to": "/technology_management", "name": "Technology Management",
+        "to": "/technology_management", "name": "Technology Management Solutions",
         "contents": [
           { "to": "#what-is-technology-management-", "name": "What is Technology Management?" },
           { "to": "#what-is-technology-management-s-purpose-", "name": "What is Technology Management's Purpose?" },
