@@ -11,7 +11,7 @@
     "title": "Project Management",
     "links": [
       {
-        "to": "/project_management", "name": "Project Management",
+        "to": "/project_management", "name": "Project Management Solutions",
         "contents": [
           { "to": "#what-is-project-management-", "name": "What is Project Management?" },
           { "to": "#what-is-the-purpose-of-project-management-", "name": "What is the purpose of Project Management?" },
