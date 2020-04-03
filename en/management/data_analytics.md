@@ -9,7 +9,7 @@ description: Data Analytics with Sapient
 
 ## What is Data Analytics?
 
-Data analytics is subjected any type of information to scientific techniques to get insight about, and the nature surrounding, that information.
+Data analytics is subjecting any type of information to scientific techniques to get insight about, and the nature surrounding, that information.
 
 ## What is the purpose of Data Analytics?
 

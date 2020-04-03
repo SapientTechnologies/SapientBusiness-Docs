@@ -13,7 +13,7 @@ A Digital Identity is your brands online presence across any and all online prop
 
 ## What is the purpose of a Digital Identity?
 
-Developing and managing your Digital Identity. is very much a public relations function. You do not want your brand to have a consumer facing online presence that is disparate across various channels and/or out of your simply business’s control or influence. Creating a cohesive Digital Identity. requires strategic planning and forethought.
+Developing and managing your Digital Identity is very much a public relations function. You do not want your brand to have a consumer facing online presence that is disparate across various channels and/or out of your simply business’s control or influence. Creating a cohesive Digital Identity requires strategic planning and forethought.
 
 ## Digital Identity with Sapient
 

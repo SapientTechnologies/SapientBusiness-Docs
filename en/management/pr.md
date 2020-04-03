@@ -9,7 +9,7 @@ description: Public Relations with Sapient
 
 ## What is Public Relations?
 
-Public Relations is the strategic art of facilitating and managing of communication, conducting research, defining problems, and creating meaning by fostering communication among many diversified groups within society.
+Public Relations is the strategic art of facilitating and managing communication, conducting research, defining problems, and creating meaning by fostering communication among many diversified groups within society.
 
 ### What is the purpose of Public Relations?
 
@@ -18,7 +18,7 @@ difference between profitability and failure. Public relations helps an organiza
 
 ### Public Relations with Sapient
 
-Sapient Business will monitor your organizations reputation 24/7 to ensure swift and accurate response. We will guide and coach your key figures through any troubles or crisis, as well as present and represent your brand, and its relations, through internal and external channels.
+Sapient Business will monitor your organization's reputation 24/7 to ensure swift and accurate response. We will guide and coach your key figures through any troubles or crisis, as well as present and represent your brand, and its relations, through internal and external channels.
 
 #### Our Public Relations solutions include:
 
