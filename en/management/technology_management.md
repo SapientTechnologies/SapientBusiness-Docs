@@ -13,7 +13,7 @@ Strategic and effective management of the technologies used for any and all busi
 
 ## What is Technology Management’s purpose?
 
-Businesses increasingly rely on many technologies for various operations and duties. Depending on the need, and use, these technologies can begin to for complex matrices that can seem daunting to professionals who may not advanced expertise. Yet still, these essential technologies must be maintained and adapted, or your business risks failure.
+Businesses increasingly rely on many technologies for various operations and duties. Depending on the need, and use, these technologies can begin to form complex matrices that can seem daunting to professionals who may not have advanced expertise. Yet still, these essential technologies must be maintained and adapted, or your business risks failure.
 
 ## Technology Management with Sapient
 Sapient Business hosts the expertise, tools, and connections to efficiently and effectively, mange the technological needs of even the most complex business technology requirements. Whether you are thinking of colocating hardware or running on cloud environments, let us be your (luxury) life raft in this turbulent sea of technology.

@@ -13,13 +13,13 @@ Productivity Software is application software used for producing information and
 
 ## What is the purpose of Productivity Software?
 
-Having your business operate in an efficient and effective manner is paramount for any organization or venture. You will need to produce documents of information of some sort, whether it is receipts, ledgers, letters, or contracts. You will also need to communicate in some fashion. Will you email, will you chat with instant message, do you need to host virtual meetings?  When developing a business venture and you begin thinking about productivity software, think along the lines of email and communications applicaitions, time management software, project management software, and office suite software.
+Having your business operate in an efficient and effective manner is paramount for any organization or venture. You will need to produce documents of information of some sort, whether it is receipts, ledgers, letters, or contracts. You will also need to communicate in some fashion. Will you email, will you chat with instant message, do you need to host virtual meetings?  When developing a business venture and you begin thinking about productivity software, think along the lines of email and communications applications, time management software, project management software, and office suite software.
 
 ## Productivity Software with Sapient
 
 We understand how essential productivity is to daily operations so we outfit your business with the software that fits your current and/or future needs.
 \\
-Our Productivity Software solutions find and can manage any solutions tailored to your specific business needs and requirements.
+Our Productivity Software solutions are tailored to your specific business needs and requirements.
 
 ### Our Productivity Software solutions include:
 

@@ -8,10 +8,7 @@ description: Web Development with Sapient
 </div>
 
 ## What is a Web Development?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Maecenas ultricies lobortis tellus at convallis.
-Vestibulum et iaculis lacus. Aliquam erat volutpat.
-Nunc sed ullamcorper ante. Sed bibendum efficitur ex, sed tristique arcu bibendum id.
+The process and technology of creating websites and web applications.
 
 ## What is the purpose of Web Development?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

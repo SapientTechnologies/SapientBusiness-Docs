@@ -13,7 +13,7 @@ The process or technique of promoting, selling, and distributing a product or se
 
 ## What is the purpose of Marketing?
 
-Marketing encompasses nearly all areas of the business spectrum. Effective marketing gets prospective and current customer gain interest in your businesses products or services.
+Marketing encompasses nearly all areas of the business spectrum. Effective marketing gets prospective and current customer to gain interest in your business's products or services.
 
 ## Marketing with Sapient
 
