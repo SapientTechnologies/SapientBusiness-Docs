@@ -7,7 +7,7 @@ description: Branding with Sapient
   <img src="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg" srcset="https://sbmedia.blob.core.windows.net/images/startup-business-logo-brand-idea-design.jpg 2x" alt="Branding"/>
 </div> -->
 
-## What is a Brand
+## What is a Brand?
 
 A Brand is an extant organism and as such, it is susceptible to any and all worldly factors and influences. Our branding solutions build strategic and creatively effective foundations that exude with distinctly defined identity, purpose and role.
 
