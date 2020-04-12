@@ -78,15 +78,17 @@
     ]
   },
   {
-    "title": "Technology Management",
+    "title": "Virtualization and Technology Management",
     "links": [
       {
-        "to": "/technology_management", "name": "Technology Management Solutions",
+        "to": "/technology_management", "name": "Virtualization and Technology Management Solutions",
         "contents": [
+          { "to": "#what-is-virtualization-", "name": "What is Virtualization Management?" },
+          { "to": "#what-is-the-purpose-of-virtualization-", "name": "What is the purpose of Virtualization?" },
           { "to": "#what-is-technology-management-", "name": "What is Technology Management?" },
           { "to": "#what-is-technology-management-s-purpose-", "name": "What is Technology Management's Purpose?" },
-          { "to": "#technology-management-with-sapient", "name": "Technology Management with Sapient" },
-          { "to": "#our-technology-management-solutions-include-", "name": "Sapient Technology Management solutions" }
+          { "to": "#virtulization-and-technology-management-with-sapient", "name": "Virtualization and Technology Management with Sapient" },
+          { "to": "#our-virtulization-and-technology-management-solutions-include-", "name": "Sapient Virtualization and Technology Management solutions" }
         ]
       }
     ]
