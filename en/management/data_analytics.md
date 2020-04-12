@@ -17,7 +17,7 @@ Implementing proper data analytics is important in helping businesses optimize t
 
 ## Data Analytics with Sapient
 
-We utilize internal and external data, analytics, and creativity to gain a clear and deep understanding of the needs and opportunities related to brands, customers, and markets, to create value for businesses.
+We utilize internal and external data, analytics, and creativity to gain a clear and deep understanding of the needs and opportunities related to brands, customers, and markets, to create value for business'.
 
 ### Our Data Analytics solutions include:
 
