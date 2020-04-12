@@ -16,7 +16,7 @@ Virtualization is technology that allows for IT services and resources, that are
 Organizations are seeing the need for remote working options. 
 \
 \
-Virtualization technologies allows for the creation of multiple simulated environments or dedicated resources from a single, physical hardware system. Technologies like operating systems and applications are continuously growing, demanding more and more computational power (CPU processing) and resources (memory and storage). Virtualization can give your business control over CPU, memory, storage, and other resources, so that guests (employees) receive the resources that they need, when they need them. Importantly, because you can makes a single physical machine act like many, you can save on the cost of servers and workstations.
+Virtualization technologies allow for the creation of multiple simulated environments or dedicated resources from a single, physical hardware system. Technologies like operating systems and applications are continuously growing, demanding more and more computational power (CPU processing) and resources (memory and storage). Virtualization can give your business control over CPU, memory, storage, and other resources, so that guests (employees) receive the resources that they need, when they need them. Importantly, because you can makes a single physical machine act like many, you can save on the cost of servers and workstations.
 \
 \
 There are various types of technology virtualization, such as: Data, Desktops, Servers, operating systems, and network functions.
