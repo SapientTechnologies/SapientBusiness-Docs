@@ -28,4 +28,4 @@ The application of processes, methods, skills, knowledge and experience to achie
 
 ## Project Management with Sapient
 
-Our Project Management solution is full service. Our team will manage any and all intricacies as well as provide the necessary solutions when called for.
+Our Project Management solution is full-service. Our team will manage any and all intricacies as well as provide the necessary solutions when called for.

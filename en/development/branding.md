@@ -17,10 +17,10 @@ A Brand articulates, distinctly and competitively, how and why a business develo
 
 ## Branding with Sapient
 
-We define your brand’s purpose, its values, personality, positionings, and the brand-to-customer proposition.
+We define your brand’s purpose, values, personality, positionings, and the brand-to-customer proposition.
 \
 \
-Experts craft a clear vision for your brand’s experiences and a roadmap to bring it all to market in strategic, compelling, and competitive ways. We identify the channels with the highest or most unique potential to deliver the brand’s goals.
+Our experts craft a clear vision for your brand’s experiences and a roadmap to bring it all to market in strategic, compelling, and competitive ways. We identify the channels with the highest or most unique potential to deliver the brand’s goals.
 
 ### Our Branding solutions include:
 

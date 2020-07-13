@@ -17,7 +17,7 @@ Developing and managing your Digital Identity is very much a public relations fu
 
 ## Digital Identity with Sapient
 
-Sapient works with businesses to develop Brands and their Digital Identity. We secure the proper web domains, usernames, and official verifications across the online channels you plan to inhabit, and even some you do not plan to use to quell brand hijacking from bad actors. Then we craft your Digital Identity in these locations for you to use.
+Sapient works with businesses to develop Brands and their Digital Identity. We secure the proper web domains, usernames, and official verifications across the online channels you plan to inhabit; and even some you that do not plan to use, to quell brand hijacking from bad actors. Finally, we craft your Digital Identity in these locations for you to use.
 
 ### Our Digital Identity solutions include:
 
